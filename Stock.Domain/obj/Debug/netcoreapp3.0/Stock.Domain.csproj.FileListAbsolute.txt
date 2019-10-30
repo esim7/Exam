@@ -1,0 +1,8 @@
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\bin\Debug\netcoreapp3.0\Stock.Domain.deps.json
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\bin\Debug\netcoreapp3.0\Stock.Domain.dll
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\bin\Debug\netcoreapp3.0\Stock.Domain.pdb
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\obj\Debug\netcoreapp3.0\Stock.Domain.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\obj\Debug\netcoreapp3.0\Stock.Domain.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\obj\Debug\netcoreapp3.0\Stock.Domain.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\obj\Debug\netcoreapp3.0\Stock.Domain.dll
+C:\Users\МакишевЕ\source\repos\Stock\Stock.Domain\obj\Debug\netcoreapp3.0\Stock.Domain.pdb
